@@ -9,15 +9,15 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "assets/img/lg.png",
-            "type": "image/png",
+            "src": "assets/img/lg.png.jpg",
+            "type": "image/jpg",
             "sizes": "512×512",
             "purpose": "web Design class"
         },
         {
-            "src": "assets/img/sm.png",
+            "src": "assets/img/1402.jpg",
             "sizes": "144x144",
-            "type": "image/png"
+            "type": "image/jpg"
         }
     ]
 }

@@ -3,7 +3,7 @@ const cacheAssets = [
     "/",
     "index.html",
     "assest/stylesheet/app.css",
-    "assest/img/lg.png"
+    "assest/img/lg.png.jpg"
 ];
 self.addEventListener("install", evt => {
     evt.waitUntil(
